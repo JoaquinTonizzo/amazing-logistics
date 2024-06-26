@@ -1,6 +1,6 @@
-# Amazing Logistics ​​🚚​
+# Trabajo Práctico Final Programación 2 - Amazing Logistics ​​
 
-## Descripción ​​🚘​​
+## Descripción ​​🚚​
 
 Amazing Logistics es un proyecto desarrollado en Java como parte del curso de Programación 2 en la Licenciatura en Sistemas de la UNGS. Este proyecto se centra en la implementación de lógica empresarial sin interfaz gráfica, utilizando conceptos avanzados de programación como herencia, polimorfismo, abstracción y encapsulamiente. Además, se utilizan pruebas unitarias con JUnit4.
 
